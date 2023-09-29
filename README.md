@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-<a href="https://app.daily.dev/bugorok"><img src="https://api.daily.dev/devcards/cd6917cf2e7c4324834307e85eae643e.png?r=muj" width="400" alt="Bugorok's Dev Card"/></a>
+<a href="https://app.daily.dev/bugorok"><img src="https://github.com/rebelchris/rebelchris/blob/master/devcard.svg" width="400" alt="Bugorok's Dev Card"/></a>
